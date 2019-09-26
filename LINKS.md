@@ -1,4 +1,10 @@
 # Documentacion
+ASSETS QUE SE USAN
++++Shooter
+- Pistolita: https://assetstore.unity.com/packages/3d/pm-40-gun-51604
+- Zombies: https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+
+
 LINKS de tutoriales y cosas chachis
 
 - Taller interno que hizo Chechu de programación orientada a objetos y Unity
