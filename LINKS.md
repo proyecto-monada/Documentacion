@@ -4,6 +4,7 @@ ASSETS QUE SE USAN
 +++Shooter
 - Pistolita: https://assetstore.unity.com/packages/3d/pm-40-gun-51604
 - Zombies: https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+- Taquillas: https://assetstore.unity.com/packages/3d/props/locker-56405
 
 TEXTURAS
 - Suelo verde: https://www.freepik.es/foto-gratis/textura-fondo-pared-piedra_5532202.htm#page=3&query=tiles&position=10
